@@ -1,0 +1,9 @@
+/workspace/course-management/src/main/java/com/ocms/course/controller/CourseController.java
+/workspace/course-management/src/main/java/com/ocms/course/repository/CourseRepository.java
+/workspace/course-management/src/main/java/com/ocms/course/repository/ModuleRepository.java
+/workspace/course-management/src/main/java/com/ocms/course/dto/CourseDto.java
+/workspace/course-management/src/main/java/com/ocms/course/util/ModuleLinkedList.java
+/workspace/course-management/src/main/java/com/ocms/course/entity/Module.java
+/workspace/course-management/src/main/java/com/ocms/course/dto/ModuleDto.java
+/workspace/course-management/src/main/java/com/ocms/course/entity/Course.java
+/workspace/course-management/src/main/java/com/ocms/course/service/CourseService.java
