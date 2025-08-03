@@ -1,0 +1,4 @@
+com/ocms/reporting/controller/ReportingController.class
+com/ocms/reporting/dto/CourseCompletionReport.class
+com/ocms/reporting/dto/AssignmentPerformanceReport.class
+com/ocms/reporting/service/ReportingService.class

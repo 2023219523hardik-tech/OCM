@@ -1,0 +1,5 @@
+/workspace/user-management/src/main/java/com/ocms/user/repository/UserRepository.java
+/workspace/user-management/src/main/java/com/ocms/user/controller/UserController.java
+/workspace/user-management/src/main/java/com/ocms/user/entity/User.java
+/workspace/user-management/src/main/java/com/ocms/user/dto/UserRegistrationDto.java
+/workspace/user-management/src/main/java/com/ocms/user/service/UserService.java

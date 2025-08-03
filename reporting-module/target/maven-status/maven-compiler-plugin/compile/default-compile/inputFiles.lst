@@ -1,0 +1,4 @@
+/workspace/reporting-module/src/main/java/com/ocms/reporting/dto/CourseCompletionReport.java
+/workspace/reporting-module/src/main/java/com/ocms/reporting/dto/AssignmentPerformanceReport.java
+/workspace/reporting-module/src/main/java/com/ocms/reporting/controller/ReportingController.java
+/workspace/reporting-module/src/main/java/com/ocms/reporting/service/ReportingService.java

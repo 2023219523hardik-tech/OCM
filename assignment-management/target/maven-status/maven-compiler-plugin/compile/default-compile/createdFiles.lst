@@ -1,0 +1,9 @@
+com/ocms/assignment/entity/Submission.class
+com/ocms/assignment/repository/SubmissionRepository.class
+com/ocms/assignment/service/AssignmentService.class
+com/ocms/assignment/dto/SubmissionDto.class
+com/ocms/assignment/dto/GradeSubmissionDto.class
+com/ocms/assignment/entity/Assignment.class
+com/ocms/assignment/dto/AssignmentDto.class
+com/ocms/assignment/controller/AssignmentController.class
+com/ocms/assignment/repository/AssignmentRepository.class

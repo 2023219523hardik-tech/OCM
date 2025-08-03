@@ -1,0 +1,5 @@
+com/ocms/user/dto/UserRegistrationDto.class
+com/ocms/user/repository/UserRepository.class
+com/ocms/user/entity/User.class
+com/ocms/user/controller/UserController.class
+com/ocms/user/service/UserService.class

@@ -1,0 +1,9 @@
+com/ocms/course/entity/Module.class
+com/ocms/course/controller/CourseController.class
+com/ocms/course/repository/CourseRepository.class
+com/ocms/course/entity/Course.class
+com/ocms/course/repository/ModuleRepository.class
+com/ocms/course/service/CourseService.class
+com/ocms/course/util/ModuleLinkedList.class
+com/ocms/course/dto/CourseDto.class
+com/ocms/course/dto/ModuleDto.class
